@@ -23,7 +23,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/AZDeals-bff.git
+   git clone https://github.com/PrateekChauhan0194/AZDeals-bff.git
    cd AZDeals-bff
    ```
 
